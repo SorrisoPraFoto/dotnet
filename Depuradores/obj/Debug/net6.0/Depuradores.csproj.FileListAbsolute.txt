@@ -1,0 +1,16 @@
+C:\Users\Marcus Vinícius\Documents\true_repos\dotnet\Depuradores\bin\Debug\net6.0\Depuradores.exe
+C:\Users\Marcus Vinícius\Documents\true_repos\dotnet\Depuradores\bin\Debug\net6.0\Depuradores.deps.json
+C:\Users\Marcus Vinícius\Documents\true_repos\dotnet\Depuradores\bin\Debug\net6.0\Depuradores.runtimeconfig.json
+C:\Users\Marcus Vinícius\Documents\true_repos\dotnet\Depuradores\bin\Debug\net6.0\Depuradores.dll
+C:\Users\Marcus Vinícius\Documents\true_repos\dotnet\Depuradores\bin\Debug\net6.0\ref\Depuradores.dll
+C:\Users\Marcus Vinícius\Documents\true_repos\dotnet\Depuradores\bin\Debug\net6.0\Depuradores.pdb
+C:\Users\Marcus Vinícius\Documents\true_repos\dotnet\Depuradores\obj\Debug\net6.0\Depuradores.GlobalUsings.g.cs
+C:\Users\Marcus Vinícius\Documents\true_repos\dotnet\Depuradores\obj\Debug\net6.0\Depuradores.csproj.AssemblyReference.cache
+C:\Users\Marcus Vinícius\Documents\true_repos\dotnet\Depuradores\obj\Debug\net6.0\Depuradores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcus Vinícius\Documents\true_repos\dotnet\Depuradores\obj\Debug\net6.0\Depuradores.AssemblyInfoInputs.cache
+C:\Users\Marcus Vinícius\Documents\true_repos\dotnet\Depuradores\obj\Debug\net6.0\Depuradores.AssemblyInfo.cs
+C:\Users\Marcus Vinícius\Documents\true_repos\dotnet\Depuradores\obj\Debug\net6.0\Depuradores.csproj.CoreCompileInputs.cache
+C:\Users\Marcus Vinícius\Documents\true_repos\dotnet\Depuradores\obj\Debug\net6.0\Depuradores.dll
+C:\Users\Marcus Vinícius\Documents\true_repos\dotnet\Depuradores\obj\Debug\net6.0\ref\Depuradores.dll
+C:\Users\Marcus Vinícius\Documents\true_repos\dotnet\Depuradores\obj\Debug\net6.0\Depuradores.pdb
+C:\Users\Marcus Vinícius\Documents\true_repos\dotnet\Depuradores\obj\Debug\net6.0\Depuradores.genruntimeconfig.cache
