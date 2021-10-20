@@ -12,8 +12,8 @@ namespace Pizzaria.Services
         {
             Pizzas = new List<Pizza>
             {
-                new Pizza { Id = 1, Name = "Classic Italian", IsGlutenFree = false },
-                new Pizza { Id = 2, Name = "Veggie", IsGlutenFree = true }
+                new Pizza { Id = 1, Name = "Calabresa", IsGlutenFree = false },
+                new Pizza { Id = 2, Name = "Vegana", IsGlutenFree = true }
             };
         }
 
