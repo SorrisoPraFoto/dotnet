@@ -1,0 +1,16 @@
+C:\Users\Marcus Vinícius\Documents\true_repos\dotnet\diretorios\bin\Debug\net6.0\diretorios.exe
+C:\Users\Marcus Vinícius\Documents\true_repos\dotnet\diretorios\bin\Debug\net6.0\diretorios.deps.json
+C:\Users\Marcus Vinícius\Documents\true_repos\dotnet\diretorios\bin\Debug\net6.0\diretorios.runtimeconfig.json
+C:\Users\Marcus Vinícius\Documents\true_repos\dotnet\diretorios\bin\Debug\net6.0\diretorios.dll
+C:\Users\Marcus Vinícius\Documents\true_repos\dotnet\diretorios\bin\Debug\net6.0\ref\diretorios.dll
+C:\Users\Marcus Vinícius\Documents\true_repos\dotnet\diretorios\bin\Debug\net6.0\diretorios.pdb
+C:\Users\Marcus Vinícius\Documents\true_repos\dotnet\diretorios\obj\Debug\net6.0\diretorios.GlobalUsings.g.cs
+C:\Users\Marcus Vinícius\Documents\true_repos\dotnet\diretorios\obj\Debug\net6.0\diretorios.csproj.AssemblyReference.cache
+C:\Users\Marcus Vinícius\Documents\true_repos\dotnet\diretorios\obj\Debug\net6.0\diretorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcus Vinícius\Documents\true_repos\dotnet\diretorios\obj\Debug\net6.0\diretorios.AssemblyInfoInputs.cache
+C:\Users\Marcus Vinícius\Documents\true_repos\dotnet\diretorios\obj\Debug\net6.0\diretorios.AssemblyInfo.cs
+C:\Users\Marcus Vinícius\Documents\true_repos\dotnet\diretorios\obj\Debug\net6.0\diretorios.csproj.CoreCompileInputs.cache
+C:\Users\Marcus Vinícius\Documents\true_repos\dotnet\diretorios\obj\Debug\net6.0\diretorios.dll
+C:\Users\Marcus Vinícius\Documents\true_repos\dotnet\diretorios\obj\Debug\net6.0\ref\diretorios.dll
+C:\Users\Marcus Vinícius\Documents\true_repos\dotnet\diretorios\obj\Debug\net6.0\diretorios.pdb
+C:\Users\Marcus Vinícius\Documents\true_repos\dotnet\diretorios\obj\Debug\net6.0\diretorios.genruntimeconfig.cache
