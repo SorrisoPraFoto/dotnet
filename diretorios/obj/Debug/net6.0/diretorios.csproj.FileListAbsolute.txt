@@ -14,3 +14,4 @@ C:\Users\Marcus Vinícius\Documents\true_repos\dotnet\diretorios\obj\Debug\net6.
 C:\Users\Marcus Vinícius\Documents\true_repos\dotnet\diretorios\obj\Debug\net6.0\ref\diretorios.dll
 C:\Users\Marcus Vinícius\Documents\true_repos\dotnet\diretorios\obj\Debug\net6.0\diretorios.pdb
 C:\Users\Marcus Vinícius\Documents\true_repos\dotnet\diretorios\obj\Debug\net6.0\diretorios.genruntimeconfig.cache
+C:\Users\Marcus Vinícius\Documents\true_repos\dotnet\diretorios\bin\Debug\net6.0\Newtonsoft.Json.dll

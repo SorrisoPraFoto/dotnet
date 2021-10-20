@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "V+VvXvnioKBRwXfWfumrn4h7XNN7g27mMRcsf9FXq59Z+yegTWiIuqxsGSW/T35GednE4kofxwTlKrmODE/33g==",
+  "dgSpecHash": "d2KrkXXtuiivZvE/ctixJRNwTXj0CqTVvsc3yI7YzOjUuKhYnG9e2jHXxcZXonyq1v5Lmafgef80j3iWG5t2eA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Marcus Vinícius\\Documents\\true_repos\\dotnet\\diretorios\\diretorios.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Marcus Vinícius\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
