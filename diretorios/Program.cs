@@ -16,6 +16,14 @@
                 Console.WriteLine(dir);
             }
         }
+
+        public void searchTextos(string raiz){
+            IEnumerable<string> allFilesInAllFolders = Directory.EnumerateFiles(raiz, "*.txt", SearchOption.AllDirectories);
+
+            foreach (var file in allFilesInAllFolders){
+                Console.WriteLine(file);
+            }
+        }
     }
 
     class Program
@@ -24,6 +32,8 @@
         {
             Diretorios dir = new Diretorios();
             dir.printDiretorios("stores");
+            dir.printArquivos("stores");
+            dir.searchTextos("stores");
         }
     }
 }
